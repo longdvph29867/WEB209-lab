@@ -1,30 +1,38 @@
-import React from "react";
+import { useState, useEffect } from "react";
+import { ProductType } from "../../types/product";
 
-type Props = {};
+type Props = {
+  product: ProductType;
+};
 
-const ImgDetail = (props: Props) => {
+const ImgDetail = ({ product }: Props) => {
+  const [isImage, setisImage] = useState<string>("");
+
+  const handleClickImage = (image: string) => {
+    setisImage(image);
+  };
+
+  useEffect(() => {
+    setisImage(product.images[0]);
+  }, [product]);
+
   return (
     <div className="flex gap-[30px]">
       <div className="flex flex-col gap-4">
-        <div className="w-[170px] h-[138px] bg-[#F5F5F5] flex items-center justify-center">
-          <img src="./img/product-left-1.png" alt="" />
-        </div>
-        <div className="w-[170px] h-[138px] bg-[#F5F5F5] flex items-center justify-center">
-          <img src="./img/product-left-2.png" alt="" />
-        </div>
-        <div className="w-[170px] h-[138px] bg-[#F5F5F5] flex items-center justify-center">
-          <img src="./img/product-left-3.png" alt="" />
-        </div>
-        <div className="w-[170px] h-[138px] bg-[#F5F5F5] flex items-center justify-center">
-          <img src="./img/product-left-4.png" alt="" />
-        </div>
+        {product.images.map((image, index) => (
+          <div
+            key={index}
+            onClick={() => handleClickImage(image)}
+            className={`w-[170px] h-[138px] bg-[#F5F5F5] flex items-center justify-center overflow-hidden border-4 ${
+              isImage === image ? "border-gray-400" : "border-transparent"
+            }`}
+          >
+            <img src={image} alt="" />
+          </div>
+        ))}
       </div>
       <div className="flex justify-center items-center w-[500px] bg-[#F5F5F5]">
-        <img
-          className="w-[446px] h-[315px]"
-          src="./img/product-show.png"
-          alt=""
-        />
+        <img src={isImage} alt="" />
       </div>
     </div>
   );

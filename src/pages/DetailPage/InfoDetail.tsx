@@ -1,10 +1,14 @@
-type Props = {};
+import { ProductType } from "../../types/product";
 
-const InfoDetail = (props: Props) => {
+type Props = {
+  product: ProductType;
+};
+
+const InfoDetail = ({ product }: Props) => {
   return (
     <div>
       <div className="border-b-2 pb-6 border-black/50">
-        <h1 className="text-2xl font-bold">Havic HV G-92 Gamepad</h1>
+        <h1 className="text-2xl font-bold">{product.name}</h1>
         <div className="flex items-center gap-4 h-max text-sm my-4">
           <div className="flex items-center gap-2">
             <div className="flex items-center gap-1">
@@ -77,14 +81,10 @@ const InfoDetail = (props: Props) => {
           <span className="text-green-400">In Stock</span>
         </div>
         <div className="text-2xl mb-6">
-          <span>$192.00</span>
+          <span>${product.price}</span>
         </div>
         <div>
-          <span className="text-sm">
-            PlayStation 5 Controller Skin High quality vinyl with air channel
-            adhesive for easy bubble free install &amp; mess free removal
-            Pressure sensitive.
-          </span>
+          <span className="text-sm">{product.desc}</span>
         </div>
       </div>
       <div className="flex items-center justify-between mt-8">

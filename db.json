@@ -1,7 +1,7 @@
 {
   "products": [
     {
-        "id": "65518987d83c377ceabec202",
+        "id": 1,
         "name": "Áo Khoác Nỉ Co Giãn Dry Có Mũ Kéo Khóa Dài Tay",
         "desc": "Lớp bề mặt với thiết kế nhám mờ thông thường. Lớp lót lưới thoáng khí bên trong mũ trùm đầu và túi. Kiểu dáng rộng rãi thoải mái dễ phối với nhiều trang phục khác nhau. Với thiết kế túi bên hông tiện dụng.",
         "images": [
@@ -20,7 +20,7 @@
         "rating": 4.9
     },
     {
-        "id": "655188efd83c377ceabec1fe",
+        "id": 2,
         "name": "Áo Nỉ Có Mũ Kéo Khóa Dài Tay",
         "desc": "Kết cấu mịn với lớp lót chống vón cục. Thiết kế túi kangaroo cổ điển. Kiểu dáng rộng rãi thoải mái dễ phối với nhiều trang phục khác nhau. Với thiết kế túi bên hông tiện dụng.",
         "images": [
@@ -39,7 +39,7 @@
         "rating": 4.4
     },
     {
-        "id": "65518aa9d83c377ceabec208",
+        "id": 3,
         "name": "PEANUTS Áo Nỉ Dài Tay",
         "desc": "Bộ sưu tập lấy cảm hứng từ bóng chày, môn thể thao yêu thích của những người bạn Peanuts. Một chiếc áo khoác tiện dụng và đa năng bạn có thể mang theo bất cứ nơi nào. UPF50+.",
         "images": [
@@ -58,7 +58,7 @@
         "rating": 4.5
     },
     {
-        "id": "65518cadd83c377ceabec211",
+        "id": 4,
         "name": "Áo Len Vải Souffle Cổ Tròn Dài Tay",
         "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Thoải mái và không ngứa. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
         "images": [
@@ -77,7 +77,7 @@
         "rating": 3.1
     },
     {
-        "id": "65519115d83c377ceabec227",
+        "id": 5,
         "name": "Quần Jeans Dáng Ôm Ống Suông",
         "desc": "Cải tiến mới với vẻ bề ngoài thanh lịch hơn. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
         "images": [
@@ -96,7 +96,7 @@
         "rating": 3.2
     },
     {
-        "id": "655192e8d83c377ceabec230",
+        "id": 6,
         "name": "Quần Easy Short Co Giãn (Kẻ Sọc)",
         "desc": "Lưng thun co giãn thoải mái. Thích hợp cho phong cách tinh tế. Đường may loe rộng cho bạn một cái nhìn tinh tế, đẹp mắt. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
         "images": [
@@ -115,7 +115,7 @@
         }
     },
     {
-        "id": "65518b3fd83c377ceabec20b",
+        "id": 7,
         "name": "Áo Len Vải Souffle Cổ Cao Dài Tay",
         "desc": "Cải tiến với thiết kế cổ cao để tạo sự thoải mái hơn nữa. Cực kỳ mềm mại và không gây ngứa. Bộ sưu tập lấy cảm hứng từ bóng chày, môn thể thao yêu thích của những người bạn Peanuts.",
         "images": [
@@ -134,7 +134,7 @@
         "rating": 3
     },
     {
-        "id": "65518baed83c377ceabec20e",
+        "id": 8,
         "name": "Extra Fine Merino Áo Cardigan Polo Vải Gân",
         "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Bộ sưu tập lấy cảm hứng từ bóng chày, môn thể thao yêu thích của những người bạn Peanuts.",
         "images": [
@@ -153,7 +153,7 @@
         "rating": 2.4
     },
     {
-        "id": "65518e67d83c377ceabec21a",
+        "id": 9,
         "name": "Áo Thun Cotton Mềm Co Giãn Cổ Tròn Dài Tay",
         "desc": "Chất liệu vải trơn cùng kiểu dáng rộng, một chiếc áo thun tiêu chuẩn nâng tầm phong cách của bạn. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
         "images": [
@@ -172,7 +172,7 @@
         "rating": 5
     },
     {
-        "id": "65519084d83c377ceabec224",
+        "id": 10,
         "name": "Quần Jeans Siêu Co Giãn",
         "desc": "Cải tiến mới với vẻ bề ngoài thanh lịch hơn. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
         "images": [
@@ -191,7 +191,7 @@
         "rating": 4
     },
     {
-        "id": "65518885d83c377ceabec1fb",
+        "id": 11,
         "name": "Áo Cardigan Vải Nỉ Dài Tay",
         "desc": "Sản phẩm đã được cập nhật với kết cấu mới ở cả hai mặt. Kiểu dáng rộng rãi thoải mái dễ phối với nhiều trang phục khác nhau. Với thiết kế túi bên hông tiện dụng.",
         "images": [
@@ -210,7 +210,7 @@
         "rating": 4.8
     },
     {
-        "id": "65518daad83c377ceabec217",
+        "id": 12,
         "name": "Áo Len Lông Cừu Cao Cấp Cổ Tròn Dài Tay",
         "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Thoải mái và không ngứa. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
         "images": [
@@ -229,7 +229,7 @@
         "rating": 1.5
     },
     {
-        "id": "65519241d83c377ceabec22d",
+        "id": 13,
         "name": "Quần Shorts Co Giãn Dáng Slim Fit",
         "desc": "Lưng thun co giãn thoải mái. Thích hợp cho phong cách tinh tế. Đường may loe rộng cho bạn một cái nhìn tinh tế, đẹp mắt. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
         "images": [
@@ -248,7 +248,7 @@
         "rating": 4.4
     },
     {
-        "id": "655187d06b5334941bc7b7b3",
+        "id": 14,
         "name": "Áo Nỉ Có Mũ Kéo Khóa Dài Tay23",
         "desc": "Sản phẩm đã được cập nhật với kết cấu mới ở cả hai mặt, cùng với lớp lót không bị rụng lông. Mũ trùm đầu được lót bằng vải nhanh khô hơn sau khi giặt. Vải thấm mồ hôi với kết cấu mịn. Lớp lót mềm mại.",
         "images": [
@@ -267,7 +267,7 @@
         "rating": 3.4
     },
     {
-        "id": "65518a13d83c377ceabec205",
+        "id": 15,
         "name": "AIRism Áo Khoác Khóa Kéo Chống UV Vải Mắt Lưới",
         "desc": "Hoodie lưới cập nhật với thiết kế bỏ túi. Một chiếc áo khoác tiện dụng và đa năng bạn có thể mang theo bất cứ nơi nào. UPF50+.",
         "images": [
@@ -286,7 +286,7 @@
         "rating": 2.7
     },
     {
-        "id": "65518d22d83c377ceabec214",
+        "id": 16,
         "name": "Áo Len Vải Sợi Souffle Cổ Tròn Dài Tay",
         "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Thoải mái và không ngứa. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
         "images": [
@@ -305,7 +305,7 @@
         "rating": 4.6
     },
     {
-        "id": "65518eedd83c377ceabec21d",
+        "id": 17,
         "name": "Áo Thun SUPIMA COTTON Cổ Tròn Ngắn Tay",
         "desc": "Một sự thoải mái không thể nhầm lẫn cùng chất lượng cao cấp từ cotton. Đa năng với thiết kế co giãn. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
         "images": [
@@ -324,7 +324,7 @@
         "rating": 4.3
     },
     {
-        "id": "65519001d83c377ceabec221",
+        "id": 18,
         "name": "EZY Quần Jean Siêu Co Giãn",
         "desc": "Cải tiến mới với vẻ bề ngoài thanh lịch hơn. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
         "images": [
@@ -343,7 +343,7 @@
         "rating": 4.1
     },
     {
-        "id": "655191a1d83c377ceabec22a",
+        "id": 19,
         "name": "Quần Jeans Baggy Cạp Thấp",
         "desc": "Thiết kế cạp thấp với kiểu dáng loe rộng. Đường may loe rộng cho bạn một cái nhìn tinh tế, đẹp mắt. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
         "images": [

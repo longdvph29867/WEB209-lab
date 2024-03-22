@@ -7,8 +7,8 @@ export interface ProductType {
   price: number,
   slug: string,
   id_category: {
-      _id: string,
-      categoryName: string
+    id: string,
+    categoryName: string
   },
   gender: string,
   rating: number
