@@ -1,3 +1,5 @@
+import Button from "./Button";
+
 type Props = {};
 
 const Banner = (props: Props) => {
@@ -15,12 +17,8 @@ const Banner = (props: Props) => {
           dining sets to stylish office desks and comfortable beds.
         </p>
         <div className="flex items-center gap-4 mt-10">
-          <button className="py-3 px-6 border border-black rounded bg-black text-white">
-            Shop Now
-          </button>
-          <button className="py-3 px-6 border border-black rounded">
-            Learn More
-          </button>
+          <Button dark>Shop Now</Button>
+          <Button>Learn More</Button>
         </div>
       </div>
       <div className="col-span-2">

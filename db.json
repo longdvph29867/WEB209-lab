@@ -1,137 +1,365 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Áo Nỉ Có Mũ Kéo Khóa Dài Tay23",
-      "desc": "Sản phẩm đã được cập nhật với kết cấu mới ở cả hai mặt, cùng với lớp lót không bị rụng lông. Mũ trùm đầu được lót bằng vải nhanh khô hơn sau khi giặt. Vải thấm mồ hôi với kết cấu mịn. Lớp lót mềm mại.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460324/item/vngoods_05_460324.jpg?width=750",
-      "price": 784000
+        "id": "65518987d83c377ceabec202",
+        "name": "Áo Khoác Nỉ Co Giãn Dry Có Mũ Kéo Khóa Dài Tay",
+        "desc": "Lớp bề mặt với thiết kế nhám mờ thông thường. Lớp lót lưới thoáng khí bên trong mũ trùm đầu và túi. Kiểu dáng rộng rãi thoải mái dễ phối với nhiều trang phục khác nhau. Với thiết kế túi bên hông tiện dụng.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/466765/item/vngoods_01_466765.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460325/sub/vngoods_460325_sub1.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460325/sub/vngoods_460325_sub7.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460325/sub/goods_460325_sub11.jpg?width=750"
+        ],
+        "price": 784,
+        "slug": "ao-khoac-ni-co-gian-dry-co-mu-keo-khoa-dai-tay",
+        "id_category": {
+            "id": "654e4dee8ad5b1f981ef8eb1",
+            "categoryName": "ÁO NỈ & ÁO HOODIE"
+        },
+        "gender": "male",
+        "rating": 4.9
     },
     {
-      "id": 2,
-      "name": "Áo Cardigan Vải Nỉ Dài Tay",
-      "desc": "Sản phẩm đã được cập nhật với kết cấu mới ở cả hai mặt. Kiểu dáng rộng rãi thoải mái dễ phối với nhiều trang phục khác nhau. Với thiết kế túi bên hông tiện dụng.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/462199/item/vngoods_59_462199.jpg?width=750",
-      "price": 980000
+        "id": "655188efd83c377ceabec1fe",
+        "name": "Áo Nỉ Có Mũ Kéo Khóa Dài Tay",
+        "desc": "Kết cấu mịn với lớp lót chống vón cục. Thiết kế túi kangaroo cổ điển. Kiểu dáng rộng rãi thoải mái dễ phối với nhiều trang phục khác nhau. Với thiết kế túi bên hông tiện dụng.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460324/item/vngoods_24_460324.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460324/sub/vngoods_460324_sub1.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460324/sub/vngoods_460324_sub7.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460324/sub/goods_460324_sub13.jpg?width=750"
+        ],
+        "price": 784,
+        "slug": "ao-ni-co-mu-keo-khoa-dai-tay",
+        "id_category": {
+            "id": "654e4dee8ad5b1f981ef8eb1",
+            "categoryName": "ÁO NỈ & ÁO HOODIE"
+        },
+        "gender": "male",
+        "rating": 4.4
     },
     {
-      "id": 3,
-      "name": "Áo Nỉ Có Mũ Kéo Khóa Dài Tay",
-      "desc": "Kết cấu mịn với lớp lót chống vón cục. Thiết kế túi kangaroo cổ điển. Kiểu dáng rộng rãi thoải mái dễ phối với nhiều trang phục khác nhau. Với thiết kế túi bên hông tiện dụng.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460324/item/vngoods_24_460324.jpg?width=750",
-      "price": 784000
+        "id": "65518aa9d83c377ceabec208",
+        "name": "PEANUTS Áo Nỉ Dài Tay",
+        "desc": "Bộ sưu tập lấy cảm hứng từ bóng chày, môn thể thao yêu thích của những người bạn Peanuts. Một chiếc áo khoác tiện dụng và đa năng bạn có thể mang theo bất cứ nơi nào. UPF50+.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/444967/item/vngoods_41_444967.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/464507/sub/vngoods_464507_sub1.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464507/sub/goods_464507_sub14.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464507/sub/goods_464507_sub19.jpg?width=750"
+        ],
+        "price": 784,
+        "slug": "peanuts-ao-ni-dai-tay",
+        "id_category": {
+            "id": "654e4dee8ad5b1f981ef8eb1",
+            "categoryName": "ÁO NỈ & ÁO HOODIE"
+        },
+        "gender": "male",
+        "rating": 4.5
     },
     {
-      "id": 4,
-      "name": "Áo Khoác Nỉ Co Giãn Dry Có Mũ Kéo Khóa Dài Tay",
-      "desc": "Lớp bề mặt với thiết kế nhám mờ thông thường. Lớp lót lưới thoáng khí bên trong mũ trùm đầu và túi. Kiểu dáng rộng rãi thoải mái dễ phối với nhiều trang phục khác nhau. Với thiết kế túi bên hông tiện dụng.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/466765/item/vngoods_01_466765.jpg?width=750",
-      "price": 784000
+        "id": "65518cadd83c377ceabec211",
+        "name": "Áo Len Vải Souffle Cổ Tròn Dài Tay",
+        "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Thoải mái và không ngứa. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462719/sub/goods_462719_sub11.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/462719/sub/vngoods_462719_sub9.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/462719/sub/vngoods_462719_sub9.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462719/sub/goods_462719_sub23.jpg?width=750"
+        ],
+        "price": 784,
+        "slug": "ao-len-vai-souffle-co-tron-dai-tay",
+        "id_category": {
+            "id": "654e4dfe8ad5b1f981ef8eb4",
+            "categoryName": "ÁO LEN"
+        },
+        "gender": "female",
+        "rating": 3.1
     },
     {
-      "id": 5,
-      "name": "AIRism Áo Khoác Khóa Kéo Chống UV Vải Mắt Lưới",
-      "desc": "Hoodie lưới cập nhật với thiết kế bỏ túi. Một chiếc áo khoác tiện dụng và đa năng bạn có thể mang theo bất cứ nơi nào. UPF50+.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/448034/item/vngoods_05_448034.jpg?width=750",
-      "price": 686000
+        "id": "65519115d83c377ceabec227",
+        "name": "Quần Jeans Dáng Ôm Ống Suông",
+        "desc": "Cải tiến mới với vẻ bề ngoài thanh lịch hơn. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/462685/sub/vngoods_462685_sub9.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462685/sub/goods_462685_sub11.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462685/sub/goods_462685_sub17.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462685/sub/goods_462685_sub17.jpg?width=750"
+        ],
+        "price": 980,
+        "slug": "quan-jeans-dang-om-ong-suong",
+        "id_category": {
+            "id": "654e4e378ad5b1f981ef8ec0",
+            "categoryName": "QUẦN JEANS"
+        },
+        "gender": "female",
+        "rating": 3.2
     },
     {
-      "id": 6,
-      "name": "PEANUTS Áo Nỉ Dài Tay",
-      "desc": "Bộ sưu tập lấy cảm hứng từ bóng chày, môn thể thao yêu thích của những người bạn Peanuts. Một chiếc áo khoác tiện dụng và đa năng bạn có thể mang theo bất cứ nơi nào. UPF50+.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/444967/item/vngoods_41_444967.jpg?width=750",
-      "price": 784000
+        "id": "655192e8d83c377ceabec230",
+        "name": "Quần Easy Short Co Giãn (Kẻ Sọc)",
+        "desc": "Lưng thun co giãn thoải mái. Thích hợp cho phong cách tinh tế. Đường may loe rộng cho bạn một cái nhìn tinh tế, đẹp mắt. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/458325/item/vngoods_64_458325.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458325/sub/goods_458325_sub14.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458325/sub/goods_458325_sub18.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/458325/sub/vngoods_458325_sub13.jpg?width=750"
+        ],
+        "price": 391,
+        "slug": "quan-easy-short-co-gian-(ke-soc)",
+        "gender": "male",
+        "rating": 3.8,
+        "id_category": {
+            "id": "654e4e518ad5b1f981ef8ec4",
+            "categoryName": "QUẦN SHORT"
+        }
     },
     {
-      "id": 7,
-      "name": "Áo Len Vải Souffle Cổ Cao Dài Tay",
-      "desc": "Cải tiến với thiết kế cổ cao để tạo sự thoải mái hơn nữa. Cực kỳ mềm mại và không gây ngứa. Bộ sưu tập lấy cảm hứng từ bóng chày, môn thể thao yêu thích của những người bạn Peanuts.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/463193/item/vngoods_12_463193.jpg?width=750",
-      "price": 588000
+        "id": "65518b3fd83c377ceabec20b",
+        "name": "Áo Len Vải Souffle Cổ Cao Dài Tay",
+        "desc": "Cải tiến với thiết kế cổ cao để tạo sự thoải mái hơn nữa. Cực kỳ mềm mại và không gây ngứa. Bộ sưu tập lấy cảm hứng từ bóng chày, môn thể thao yêu thích của những người bạn Peanuts.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/463193/item/vngoods_12_463193.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/463193/sub/vngoods_463193_sub7.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/463193/sub/vngoods_463193_sub9.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463193/sub/goods_463193_sub24.jpg?width=750"
+        ],
+        "price": 588,
+        "slug": "ao-len-vai-souffle-co-cao-dai-tay",
+        "id_category": {
+            "id": "654e4dfe8ad5b1f981ef8eb4",
+            "categoryName": "ÁO LEN"
+        },
+        "gender": "female",
+        "rating": 3
     },
     {
-      "id": 8,
-      "name": "Extra Fine Merino Áo Cardigan Polo Vải Gân",
-      "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Bộ sưu tập lấy cảm hứng từ bóng chày, môn thể thao yêu thích của những người bạn Peanuts.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/465484/item/vngoods_10_465484.jpg?width=750",
-      "price": 784000
+        "id": "65518baed83c377ceabec20e",
+        "name": "Extra Fine Merino Áo Cardigan Polo Vải Gân",
+        "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Bộ sưu tập lấy cảm hứng từ bóng chày, môn thể thao yêu thích của những người bạn Peanuts.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/465484/item/vngoods_10_465484.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/461034/sub/vngoods_461034_sub7.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461034/sub/goods_461034_sub11.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461034/sub/goods_461034_sub13.jpg?width=750"
+        ],
+        "price": 784,
+        "slug": "extra-fine-merino-ao-cardigan-polo-vai-gan",
+        "id_category": {
+            "id": "654e4dfe8ad5b1f981ef8eb4",
+            "categoryName": "ÁO LEN"
+        },
+        "gender": "female",
+        "rating": 2.4
     },
     {
-      "id": 9,
-      "name": "Áo Len Vải Souffle Cổ Tròn Dài Tay",
-      "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Thoải mái và không ngứa. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
-      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462719/sub/goods_462719_sub11.jpg?width=750",
-      "price": 784000
+        "id": "65518e67d83c377ceabec21a",
+        "name": "Áo Thun Cotton Mềm Co Giãn Cổ Tròn Dài Tay",
+        "desc": "Chất liệu vải trơn cùng kiểu dáng rộng, một chiếc áo thun tiêu chuẩn nâng tầm phong cách của bạn. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/439062/item/vngoods_08_439062.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/439062/sub/goods_439062_sub14.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/439062/sub/goods_439062_sub20.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/439062/sub/goods_439062_sub18.jpg?width=750"
+        ],
+        "price": 239,
+        "slug": "ao-thun-cotton-mem-co-gian-co-tron-dai-tay",
+        "id_category": {
+            "id": "654e4e0a8ad5b1f981ef8eb7",
+            "categoryName": "ÁO THUN"
+        },
+        "gender": "female",
+        "rating": 5
     },
     {
-      "id": 10,
-      "name": "Áo Len Vải Sợi Souffle Cổ Tròn Dài Tay",
-      "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Thoải mái và không ngứa. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/464854/item/vngoods_30_464854.jpg?width=750",
-      "price": 980000
+        "id": "65519084d83c377ceabec224",
+        "name": "Quần Jeans Siêu Co Giãn",
+        "desc": "Cải tiến mới với vẻ bề ngoài thanh lịch hơn. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/468970/item/vngoods_63_468970.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/461577/sub/vngoods_461577_sub8.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461577/sub/goods_461577_sub23.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/461577/sub/vngoods_461577_sub28.jpg?width=750"
+        ],
+        "price": 980,
+        "slug": "quan-jeans-sieu-co-gian",
+        "id_category": {
+            "id": "654e4e378ad5b1f981ef8ec0",
+            "categoryName": "QUẦN JEANS"
+        },
+        "gender": "male",
+        "rating": 4
     },
     {
-      "id": 11,
-      "name": "Áo Len Lông Cừu Cao Cấp Cổ Tròn Dài Tay",
-      "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Thoải mái và không ngứa. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
-      "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465889/sub/goods_465889_sub11.jpg?width=750",
-      "price": 880000
+        "id": "65518885d83c377ceabec1fb",
+        "name": "Áo Cardigan Vải Nỉ Dài Tay",
+        "desc": "Sản phẩm đã được cập nhật với kết cấu mới ở cả hai mặt. Kiểu dáng rộng rãi thoải mái dễ phối với nhiều trang phục khác nhau. Với thiết kế túi bên hông tiện dụng.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/462199/item/vngoods_59_462199.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/462199/sub/vngoods_462199_sub1.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/462199/sub/vngoods_462199_sub7.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462199/sub/goods_462199_sub13.jpg?width=750"
+        ],
+        "price": 980,
+        "slug": "ao-cardigan-vai-ni-dai-tay",
+        "id_category": {
+            "id": "654e4dee8ad5b1f981ef8eb1",
+            "categoryName": "ÁO NỈ & ÁO HOODIE"
+        },
+        "gender": "male",
+        "rating": 4.8
     },
     {
-      "id": 12,
-      "name": "Áo Thun Cotton Mềm Co Giãn Cổ Tròn Dài Tay",
-      "desc": "Chất liệu vải trơn cùng kiểu dáng rộng, một chiếc áo thun tiêu chuẩn nâng tầm phong cách của bạn. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/439062/item/vngoods_08_439062.jpg?width=750",
-      "price": 239000
+        "id": "65518daad83c377ceabec217",
+        "name": "Áo Len Lông Cừu Cao Cấp Cổ Tròn Dài Tay",
+        "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Thoải mái và không ngứa. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465889/sub/goods_465889_sub11.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/465889/sub/vngoods_465889_sub3.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/465889/sub/vngoods_465889_sub2.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465889/sub/goods_465889_sub18.jpg?width=750"
+        ],
+        "price": 880,
+        "slug": "ao-len-long-cuu-cao-cap-co-tron-dai-tay",
+        "id_category": {
+            "id": "654e4dfe8ad5b1f981ef8eb4",
+            "categoryName": "ÁO LEN"
+        },
+        "gender": "male",
+        "rating": 1.5
     },
     {
-      "id": 13,
-      "name": "Áo Thun SUPIMA COTTON Cổ Tròn Ngắn Tay",
-      "desc": "Một sự thoải mái không thể nhầm lẫn cùng chất lượng cao cấp từ cotton. Đa năng với thiết kế co giãn. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/465760/item/vngoods_03_465760.jpg?width=750",
-      "price": 239000
+        "id": "65519241d83c377ceabec22d",
+        "name": "Quần Shorts Co Giãn Dáng Slim Fit",
+        "desc": "Lưng thun co giãn thoải mái. Thích hợp cho phong cách tinh tế. Đường may loe rộng cho bạn một cái nhìn tinh tế, đẹp mắt. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/456790/item/vngoods_66_456790.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/457685/sub/vngoods_457685_sub7.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457685/sub/goods_457685_sub20.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457685/sub/goods_457685_sub19.jpg?width=750"
+        ],
+        "price": 588,
+        "slug": "quan-shorts-co-gian-dang-slim-fit",
+        "id_category": {
+            "id": "654e4e518ad5b1f981ef8ec4",
+            "categoryName": "QUẦN SHORT"
+        },
+        "gender": "male",
+        "rating": 4.4
     },
     {
-      "id": 14,
-      "name": "EZY Quần Jean Siêu Co Giãn",
-      "desc": "Cải tiến mới với vẻ bề ngoài thanh lịch hơn. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/455476/item/vngoods_09_455476.jpg?width=750",
-      "price": 834000
+        "id": "655187d06b5334941bc7b7b3",
+        "name": "Áo Nỉ Có Mũ Kéo Khóa Dài Tay23",
+        "desc": "Sản phẩm đã được cập nhật với kết cấu mới ở cả hai mặt, cùng với lớp lót không bị rụng lông. Mũ trùm đầu được lót bằng vải nhanh khô hơn sau khi giặt. Vải thấm mồ hôi với kết cấu mịn. Lớp lót mềm mại.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460324/item/vngoods_05_460324.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450189/sub/goods_450189_sub14.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450189/sub/goods_450189_sub20.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450189/sub/goods_450189_sub26.jpg?width=750"
+        ],
+        "price": 784,
+        "slug": "ao-ni-co-mu-keo-khoa-dai-tay23",
+        "id_category": {
+            "id": "654e4dee8ad5b1f981ef8eb1",
+            "categoryName": "ÁO NỈ & ÁO HOODIE"
+        },
+        "gender": "male",
+        "rating": 3.4
     },
     {
-      "id": 15,
-      "name": "Quần Jeans Siêu Co Giãn",
-      "desc": "Cải tiến mới với vẻ bề ngoài thanh lịch hơn. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/468970/item/vngoods_63_468970.jpg?width=750",
-      "price": 980000
+        "id": "65518a13d83c377ceabec205",
+        "name": "AIRism Áo Khoác Khóa Kéo Chống UV Vải Mắt Lưới",
+        "desc": "Hoodie lưới cập nhật với thiết kế bỏ túi. Một chiếc áo khoác tiện dụng và đa năng bạn có thể mang theo bất cứ nơi nào. UPF50+.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/448034/item/vngoods_05_448034.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456261/sub/goods_456261_sub11.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456261/sub/goods_456261_sub17.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/456261/sub/goods_456261_sub13.jpg?width=750"
+        ],
+        "price": 686,
+        "slug": "airism-ao-khoac-khoa-keo-chong-uv-vai-mat-luoi",
+        "id_category": {
+            "id": "654e4dee8ad5b1f981ef8eb1",
+            "categoryName": "ÁO NỈ & ÁO HOODIE"
+        },
+        "gender": "female",
+        "rating": 2.7
     },
     {
-      "id": 16,
-      "name": "Quần Jeans Dáng Ôm Ống Suông",
-      "desc": "Cải tiến mới với vẻ bề ngoài thanh lịch hơn. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/462685/sub/vngoods_462685_sub9.jpg?width=750",
-      "price": 980000
+        "id": "65518d22d83c377ceabec214",
+        "name": "Áo Len Vải Sợi Souffle Cổ Tròn Dài Tay",
+        "desc": "Chất vải len Merino cực mịn và bóng. Tạo phong cách riêng cho bạn khi kết hợp cùng các trang phục khác. Thoải mái và không ngứa. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/464854/item/vngoods_30_464854.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460950/sub/vngoods_460950_sub1.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/460950/sub/vngoods_460950_sub7.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460950/sub/goods_460950_sub13.jpg?width=750"
+        ],
+        "price": 980,
+        "slug": "ao-len-vai-soi-souffle-co-tron-dai-tay",
+        "id_category": {
+            "id": "654e4dfe8ad5b1f981ef8eb4",
+            "categoryName": "ÁO LEN"
+        },
+        "gender": "male",
+        "rating": 4.6
     },
     {
-      "id": 17,
-      "name": "Quần Jeans Baggy Cạp Thấp",
-      "desc": "Thiết kế cạp thấp với kiểu dáng loe rộng. Đường may loe rộng cho bạn một cái nhìn tinh tế, đẹp mắt. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/465927/item/vngoods_63_465927.jpg?width=750",
-      "price": 980000
+        "id": "65518eedd83c377ceabec21d",
+        "name": "Áo Thun SUPIMA COTTON Cổ Tròn Ngắn Tay",
+        "desc": "Một sự thoải mái không thể nhầm lẫn cùng chất lượng cao cấp từ cotton. Đa năng với thiết kế co giãn. Tay áo và cổ áo có màu tương phản tạo thêm điểm nhấn phong cách.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/465760/item/vngoods_03_465760.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/462672/sub/vngoods_462672_sub7.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462672/sub/goods_462672_sub11.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462672/sub/goods_462672_sub17.jpg?width=750"
+        ],
+        "price": 239,
+        "slug": "ao-thun-supima-cotton-co-tron-ngan-tay",
+        "id_category": {
+            "id": "654e4e0a8ad5b1f981ef8eb7",
+            "categoryName": "ÁO THUN"
+        },
+        "gender": "female",
+        "rating": 4.3
     },
     {
-      "id": 18,
-      "name": "Quần Shorts Co Giãn Dáng Slim Fit",
-      "desc": "Lưng thun co giãn thoải mái. Thích hợp cho phong cách tinh tế. Đường may loe rộng cho bạn một cái nhìn tinh tế, đẹp mắt. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/456790/item/vngoods_66_456790.jpg?width=750",
-      "price": 588000
+        "id": "65519001d83c377ceabec221",
+        "name": "EZY Quần Jean Siêu Co Giãn",
+        "desc": "Cải tiến mới với vẻ bề ngoài thanh lịch hơn. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/455476/item/vngoods_09_455476.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/455476/sub/vngoods_455476_sub7.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455476/sub/goods_455476_sub17.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455476/sub/goods_455476_sub22.jpg?width=750"
+        ],
+        "price": 834,
+        "slug": "ezy-quan-jean-sieu-co-gian",
+        "id_category": {
+            "id": "654e4e378ad5b1f981ef8ec0",
+            "categoryName": "QUẦN JEANS"
+        },
+        "gender": "female",
+        "rating": 4.1
     },
     {
-      "id": 19,
-      "name": "Quần Easy Short Co Giãn (Kẻ Sọc)",
-      "desc": "Lưng thun co giãn thoải mái. Thích hợp cho phong cách tinh tế. Đường may loe rộng cho bạn một cái nhìn tinh tế, đẹp mắt. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
-      "image": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/458325/item/vngoods_64_458325.jpg?width=750",
-      "price": 588000
+        "id": "655191a1d83c377ceabec22a",
+        "name": "Quần Jeans Baggy Cạp Thấp",
+        "desc": "Thiết kế cạp thấp với kiểu dáng loe rộng. Đường may loe rộng cho bạn một cái nhìn tinh tế, đẹp mắt. Sự kết hợp giữa denim cùng sự thoải mái của quần nỉ tạo nên phong cách riêng cho bạn.",
+        "images": [
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/465927/item/vngoods_63_465927.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/463396/sub/vngoods_463396_sub8.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463396/sub/goods_463396_sub14.jpg?width=750",
+            "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463396/sub/goods_463396_sub23.jpg?width=750"
+        ],
+        "price": 980,
+        "slug": "quan-jeans-baggy-cap-thap",
+        "id_category": {
+            "id": "654e4e378ad5b1f981ef8ec0",
+            "categoryName": "QUẦN JEANS"
+        },
+        "gender": "female",
+        "rating": 4.3
     }
-  ]
+]
 }

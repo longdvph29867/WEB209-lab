@@ -1,10 +1,13 @@
-import { NavLink } from "react-router-dom";
-
+import { Link, NavLink } from "react-router-dom";
+import imgLogo from "../assets/img/logo.png";
+import { useContext } from "react";
+import { ModelLoginContext } from "../Layouts/Layout";
 type Props = {
   title: { link: string; name: string }[];
 };
 
 const Header = ({ title }: Props) => {
+  const { setModelLogin } = useContext(ModelLoginContext);
   return (
     <>
       <header>
@@ -115,7 +118,10 @@ const Header = ({ title }: Props) => {
                   />
                 </svg>
               </div>
-              <div className="flex items-center gap-2.5">
+              <div
+                onClick={() => setModelLogin({ type: "login" })}
+                className="flex items-center gap-2.5 cursor-pointer"
+              >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width={18}
@@ -139,9 +145,9 @@ const Header = ({ title }: Props) => {
         </div>
         <div className="border-y border-[#676767]">
           <div className="mx-auto container flex items-center justify-between py-3">
-            <div>
-              <img src="./img/logo.png" alt="" className="w-[130px]" />
-            </div>
+            <Link to="/" className="inline-block">
+              <img src={imgLogo} alt="" className="w-[130px]" />
+            </Link>
             <div className="flex items-center gap-6">
               <div>
                 <ul className="flex items-center gap-6">
