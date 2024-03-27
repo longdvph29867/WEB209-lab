@@ -6,7 +6,7 @@
       "price": "628",
       "category": "1",
       "desc": "Mollitia dicta quis ",
-      "id": 1
+      "id": "1"
     },
     {
       "name": "Idola Banks",
@@ -14,7 +14,15 @@
       "price": "646",
       "category": "1",
       "desc": "Ipsum asperiores di",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "1409",
+      "name": "Kai Huff",
+      "image": "Voluptates ad error ",
+      "price": "335",
+      "category": "2",
+      "desc": "Vitae nobis voluptas"
     }
   ]
 }
